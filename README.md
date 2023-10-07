@@ -9,7 +9,7 @@
 
 # Activity 4: 
 ## Commands:
-![image](https://github.com/AbhayWalia/ECE444-F2023-Lab1/assets/94670623/edbc7df8-a97a-45c1-a2dc-97931984194e)
+![image](https://github.com/AbhayWalia/ECE444-F2023-Lab1/assets/94670623/86d35c04-f069-4d9a-8e91-eb36aef2ce3a)
 ![image](https://github.com/AbhayWalia/ECE444-F2023-Lab1/assets/94670623/3615bf46-fe72-41b6-97fe-6ffca1b5eff4)
 
 ## Running Application:
