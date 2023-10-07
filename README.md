@@ -13,6 +13,6 @@
 ![image](https://github.com/AbhayWalia/ECE444-F2023-Lab1/assets/94670623/3615bf46-fe72-41b6-97fe-6ffca1b5eff4)
 
 ## Running Application:
-![image](https://github.com/AbhayWalia/ECE444-F2023-Lab1/assets/94670623/a1ee2993-e2a2-4d7e-b201-9433e2b8b809)
+![image](https://github.com/AbhayWalia/ECE444-F2023-Lab1/assets/94670623/c05aa44f-6694-419b-9754-49bb6fc8e440)
 
 
